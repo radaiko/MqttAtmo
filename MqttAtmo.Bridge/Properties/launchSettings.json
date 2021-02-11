@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MqttAtmo.Bridge": {
+      "commandName": "Project"
+    }
+  }
+}
